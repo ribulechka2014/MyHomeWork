@@ -30,16 +30,19 @@ else
 */
 
 /*Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
 byte DayOff(byte dayOfTheWeek)
 {
     if(dayOfTheWeek < 6)
     Console.WriteLine("Это будний день");
-    if(dayOfTheWeek > 7)
-    Console.WriteLine("Введите цифру меньше 7");
+
+    else if(dayOfTheWeek > 7)
+        Console.WriteLine("Введите цифру < или = 7");
     else
     {
-        Console.WriteLine("Это выходной день день");
+        Console.WriteLine("Это выходной день");
     }
+
     return dayOfTheWeek;
 }
 
