@@ -1,0 +1,15 @@
+C:\Users\Alina\Desktop\MyLesson\bin\Debug\net6.0\MyLesson.exe
+C:\Users\Alina\Desktop\MyLesson\bin\Debug\net6.0\MyLesson.deps.json
+C:\Users\Alina\Desktop\MyLesson\bin\Debug\net6.0\MyLesson.runtimeconfig.json
+C:\Users\Alina\Desktop\MyLesson\bin\Debug\net6.0\MyLesson.dll
+C:\Users\Alina\Desktop\MyLesson\bin\Debug\net6.0\MyLesson.pdb
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.AssemblyInfo.cs
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.dll
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\refint\MyLesson.dll
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.pdb
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\MyLesson.genruntimeconfig.cache
+C:\Users\Alina\Desktop\MyLesson\obj\Debug\net6.0\ref\MyLesson.dll
